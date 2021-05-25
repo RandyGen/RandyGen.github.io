@@ -87,6 +87,11 @@ h1 a:hover {
 	top: 0; /*上からの距離(positionで指定している場合に適用)*/
 	right: 80px; /*右からの距離(positionで指定している場合に適用)*/
 }
+.contact {
+	position: absolute; /*ボックスの配置方法(absoluteは絶対位置配置)*/
+	top: 0; /*上からの距離(positionで指定している場合に適用)*/
+	right: 160px; /*右からの距離(positionで指定している場合に適用)*/
+}
 .info {
 	font-size: 1em; /*フォントサイズ指定(emはフォントの高さを１とした相対指定)*/
 	width: 80px; /*幅指定(100%は画面横幅いっぱいに表示)*/
